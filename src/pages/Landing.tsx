@@ -44,7 +44,7 @@ export default function Landing() {
           {/* Main Card */}
           <div className="bg-card rounded-2xl shadow-elevated p-8 text-center animate-fade-in">
             <div className="flex justify-center mb-6">
-              <TaraLogo size="lg" />
+              <img src="/TRANSPARENT LOGO.png" alt="Tara"/>
             </div>
             
             <h1 className="text-2xl font-bold text-card-foreground mb-2">TARA</h1>
@@ -115,3 +115,4 @@ export default function Landing() {
     </div>
   );
 }
+
